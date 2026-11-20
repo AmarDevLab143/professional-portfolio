@@ -23,32 +23,38 @@ I am currently expanding my technical skills in JavaScript, Git, GitHub, Full-St
 - Git & GitHub (Learning)
 - JavaScript & Full-Stack Development (Learning)
 
-## Featured Projects
 
-### 1. WorkingRand
-**Website:** https://www.workingrand.com
+## Professional Website Portfolio
 
-WordPress and Elementor website development, page design, and content management.
+Explore my website development, customization, CMS management, and maintenance projects.
 
-### 2. Aerozone Jobs Portal
-**Website:** https://jobs.aerozone.com
+### WordPress & Elementor Development
 
-Job portal management using WordPress and WP JobSearch, including job listings, filters, navigation, and plugin configuration.
+1. [WorkingRand](projects/workingrand.md)
+2. [Aerozone Jobs Portal](projects/aerozone-jobs.md)
+3. [Grow Ozarks](projects/growozarks.md)
+4. [Soch Filmss](projects/sochfilmss.md)
+5. [GRO Business911](projects/gro-business911.md)
+6. [Dharma Community](projects/dharma-community.md)
+7. [Sajecle](projects/sa​jecle.md)
+8. [Stark Business911](projects/stark-business911.md)
 
-### 3. Grow Ozarks
-**Website:** https://growozarks.org
+### E-commerce & Website Customization
 
-WordPress and Elementor website development and responsive page design.
+9. [Make My Karaoke](projects/makemykaraoke.md)
+10. [Innovation Economy Partners](projects/innovation-economy-partners.md)
 
-### 4. Make My Karaoke
-**Website:** https://makemykaraoke.com
+### Website Maintenance & Content Management
 
-CS-Cart e-commerce website customization, HTML/CSS updates, product content management, and email marketing support.
+11. [Salem Modev](projects/salem-modev.md)
+12. [Gro Marshfield](projects/gro-marshfield.md)
+13. [Create Here](projects/create-here.md)
+14. [NVMP](projects/nvmp.md)
+15. [Chhatrapur](projects/chhatrapur.md)
 
-### 5. Soch Filmss
-**Website:** https://sochfilmss.com
+---
 
-WordPress and Elementor website development and content management.
+Each case study includes project information, my responsibilities, technologies, and relevant website links.
 
 ## Currently Learning
 
